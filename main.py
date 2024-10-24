@@ -1,3 +1,4 @@
+# Jonathan Stewart
 # Encoder function to shift digits by 3
 def encode(password: str) -> str:
     encoded = ''
